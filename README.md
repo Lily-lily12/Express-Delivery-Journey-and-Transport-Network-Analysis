@@ -1,2 +1,2 @@
 # Express-Delivery-Journey-and-Transport-Network-Analysis
-I have downloaded a tracking statement of a courier based in France delivered by DHL ,a  multinational logistics company and analyzed the transportation network used.  
+I have downloaded a tracking statement of a courier based in France delivered by DHL ,a  multinational logistics company and analyzed the transportation network used. I have evaluated the roles of different stages of transportation (pickup, line haul, and delivery), calculated distances and transit times, identified modes of transportation, and assessed routing efficiency. I have also dived into potential logistical challenges like traffic congestion and toll costs.
